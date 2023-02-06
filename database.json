@@ -1,0 +1,33 @@
+{
+  "protectedResources": {
+    "users": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+    ],
+    "products": [
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+    ]
+  },
+  "collective": [],
+  "banoi": [],
+  "thu": [],
+  "hang": [],
+  "phone": [
+    {
+      "id": 1,
+      "username": "Thinh",
+      "phoneNumber": "0984018891"
+    },
+    {
+      "id": 2,
+      "username": "Thinh",
+      "phoneNumber": "0886718891"
+    }
+  ]
+}
