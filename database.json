@@ -1,20 +1,20 @@
 {
   "protectedResources": {
-    "users": [
-      "GET",
-      "POST",
-      "PUT",
-      "PATCH",
-      "DELETE"
-    ],
-    "products": [
-      "POST",
-      "PUT",
-      "PATCH",
-      "DELETE"
-    ]
+    "users": ["GET", "POST", "PUT", "PATCH", "DELETE"],
+    "products": ["POST", "PUT", "PATCH", "DELETE"]
   },
-  "collective": [],
+  "collective": [
+    {
+      "id": 1,
+      "title": "Test",
+      "link": "https://i.ibb.co/mtn4mxD/z4087989247721-61fa82831f010fe8194458b451925a9f.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Test 2",
+      "link": "https://i.ibb.co/B6TX323/z4087989207371-3b2f0e1aecfb00fdbae5224b6e198db1.jpg"
+    }
+  ],
   "banoi": [],
   "thu": [],
   "hang": [],
