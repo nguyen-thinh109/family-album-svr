@@ -18,8 +18,24 @@
       "link": "https://lh3.googleusercontent.com/pw/AMWts8D3Fb_IehaKtXSH1YWO4iCT9KmSnM__hJK3v2CLXSyQDTHv9ib0fY5CU0pxIzZE-H00ARFtSQYemZuPon8I-TAQzHoiqhvvF-F0cUhpMYweKzyb_lh9hHSl6voxri5sfVCoE7OpRGK7t_3vglTC0grz3A=w1600-h1200-no"
     }
   ],
-  "banoi": [],
+  "banoi": [
+    {
+      "id": 0,
+      "title": "Cụ bế Mỡ (chụp 1/8/2019)",
+      "link": "https://lh3.googleusercontent.com/pw/AMWts8AL3QQ2A_avJwOy_IFnTWAJFp6XkIUMmvD2RvvTPMT9ySnwSDDTaQXy_sr6RjAkppq46dCcddp3yHQ3LmGS3Q8XDnyhjSc9ApPx5yHVhyBRQ6QKfAk5qaL9fdRA0lTB-k-ltGR9MJ-S-HNsvN7UzwWKXw=w1192-h1590-no"
+    },
+    {
+      "id": 1,
+      "title": "Cụ bế Mỡ (chụp 1/8/2019)",
+      "link": "https://lh3.googleusercontent.com/pw/AMWts8BkVO2EbqDHCd74Kk4UQXR57lHFAWRLQ7v1mO_kpZo-wRytIVOnA7omkQkkPCiVtWR84tSxrKEo2i0xog7UVAHnCfUt6Rphsz2mtnnD8OxdeUCisCezmHQ-JqyEyRk8D3WDcXpTaqMAYtVla8VGazTflQ=w1192-h1590-no"
+    }
+  ],
   "thu": [
+    {
+      "id": 0,
+      "title": "Chị Trang bế Thu xinh",
+      "link": "https://i.imgur.com/aAijxey.jpg"
+    },
     {
       "id": 1,
       "title": "Ảnh chụp 30/07/2012",
@@ -63,6 +79,11 @@
     {
       "id": 9,
       "title": "Ảnh chụp 20/02/2013",
+      "link": "https://lh3.googleusercontent.com/pw/AMWts8Cnj2LqUs_5JaQkfIF29o9tkuNsm2KqhUa1gzT47gp21gJv0xnN7KCqFw3anc-aT_wbUjtARxH1NaYBcZQ8ycboLORCfGPwFgn35giTpwRD6Jr2iEFW9kxzzTir5PdIQxEh1Kj7TXLl6gnBX4OKdpLCGw=w1194-h1590-no"
+    },
+    {
+      "id": 10,
+      "title": "Ảnh chụp tại chùa Hương 2017",
       "link": "https://lh3.googleusercontent.com/pw/AMWts8Cnj2LqUs_5JaQkfIF29o9tkuNsm2KqhUa1gzT47gp21gJv0xnN7KCqFw3anc-aT_wbUjtARxH1NaYBcZQ8ycboLORCfGPwFgn35giTpwRD6Jr2iEFW9kxzzTir5PdIQxEh1Kj7TXLl6gnBX4OKdpLCGw=w1194-h1590-no"
     }
   ],
