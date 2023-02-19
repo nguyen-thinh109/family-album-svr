@@ -1,10 +1,10 @@
 {
   "protectedResources": {
     "collective": ["GET", "POST", "PUT", "PATCH", "DELETE"],
-    "banoi": ["POST", "PUT", "PATCH", "DELETE"],
-    "thu": ["POST", "PUT", "PATCH", "DELETE"],
-    "hang": ["POST", "PUT", "PATCH", "DELETE"],
-    "phone": ["POST", "PUT", "PATCH", "DELETE"]
+    "banoi": ["GET","POST", "PUT", "PATCH", "DELETE"],
+    "thu": ["GET","POST", "PUT", "PATCH", "DELETE"],
+    "hang": ["GET","POST", "PUT", "PATCH", "DELETE"],
+    "phone": ["GET","POST", "PUT", "PATCH", "DELETE"]
   },
   "collective": [
     {
