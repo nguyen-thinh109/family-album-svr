@@ -1,13 +1,16 @@
 {
   "protectedResources": {
-    "users": ["GET", "POST", "PUT", "PATCH", "DELETE"],
-    "products": ["POST", "PUT", "PATCH", "DELETE"]
+    "collective": ["GET", "POST", "PUT", "PATCH", "DELETE"],
+    "banoi": ["POST", "PUT", "PATCH", "DELETE"],
+    "thu": ["POST", "PUT", "PATCH", "DELETE"],
+    "hang": ["POST", "PUT", "PATCH", "DELETE"],
+    "phone": ["POST", "PUT", "PATCH", "DELETE"]
   },
   "collective": [
     {
       "id": 1,
-      "title": "Test",
-      "link": "https://i.ibb.co/mtn4mxD/z4087989247721-61fa82831f010fe8194458b451925a9f.jpg"
+      "title": "Ảnh chụp 15/02/2013",
+      "link": "https://lh3.googleusercontent.com/tSQB9dCTmzbaNW-jSzytn1oEOl0NdTQNLZD_Pd_CZ16oxRYTxeYeC0biYRaGL3ZgxON1inSyfHZu4h58lZ6XMwrswa3hPfdGjqu8Ah0qnDfT8RhUf1d5cj5_47QKsyHLtuyDnbHE0RAGsHSTes-MC8fGhXH5TDU2lyMhenS1A3IcVWENidvFHvGdHUynbM2OpfZ-XH6zRRrWHIwzlQjdwHg6jjcJt9Ptbkhwc7-octVHziiLU1tiiB2wn1DCFG3adYsB5eXNqFGzq827Rpu_YLVDJR9xJlD11w1Lxn4OXZ_k7Bp9g6VL99u2umlrHTNZJH1IctgQPpvmUPSuIe9B8fjwvRy62YneYvrqplPqjn0PhGA0NYOUejRMAnWkEGTsYk2GgweBONRFHDJA1CfwnSaGdkfYUrm77wfiIqGv3W0DAjs-WjG3yqIzBzQnnluL409VKpCIdj_1mI4oV7h_HNDGcypP4buvWpBFuYNG9SUgby17TWaG-TFdUlxT_u4dBK6aHZDkU6DKuUemrx3XtrwnmV1p7tf_SAIjMnfhTtLR3q--g2BhyUQkcbrTFiqA9UGnZzRQxdLjFfLmrtygF1k_P3VaxI3G2yUCWY4VQDcgX9Ud-UNwzlgAsrJPwxTEGZN2iRz7f9B9_tnVCuiN2xoj-tabK0dCmGuZyWGgFDjhDUVbW32xKs0lBZuz4-u57OqkTxtnfdUYLn3zPsZ5MN_luAIbCquXpQ8zwvAYMHcAd3N5o4HO-05dxjwaL6mzqpBr8F24jEm1ykSMI4P1xtjj-HoR8TjtWTAfqVAGUicYzurQmZlSpq5h8fJGWuPOKa2u1e6Aqa0o-JC3HiIGfF9XJcxnwFACpKotSkKrADm5r_Gw517JS_32L5KUjAk__NE-obHh0JsVUMDBHJ5RT1jk8vG9tfrZVmbTT5CeoqemR3nvQQ=w1600-h1200-no?authuser=0"
     },
     {
       "id": 2,
