@@ -8,6 +8,16 @@
   },
   "collective": [
     {
+      "id": 0,
+      "title": "Huy còi và Hùng công tử",
+      "link": "https://i.ibb.co/SNNSWCg/599917725-823319.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Thịnh và Hiếu",
+      "link": "https://lh3.googleusercontent.com/pw/AMWts8AKRi5napK1zvyCv1MZijkkYNNU5Cl0H3xu8Iz-HaEHsHkApAzioWC3uqrU4fDlgD8wpSjGHS7W2zv9tjMK3-AmN0hYYgzPZ-bNaGXHsCAQ0dmbJjcaV7Y-bPcCxxOwehFuapJSeaWcUVgWuSJ4AxkxqQ=w2386-h1590-no?authuser=0"
+    },
+    {
       "id": 1,
       "title": "Ảnh chụp 15/02/2013",
       "link": "https://lh3.googleusercontent.com/tSQB9dCTmzbaNW-jSzytn1oEOl0NdTQNLZD_Pd_CZ16oxRYTxeYeC0biYRaGL3ZgxON1inSyfHZu4h58lZ6XMwrswa3hPfdGjqu8Ah0qnDfT8RhUf1d5cj5_47QKsyHLtuyDnbHE0RAGsHSTes-MC8fGhXH5TDU2lyMhenS1A3IcVWENidvFHvGdHUynbM2OpfZ-XH6zRRrWHIwzlQjdwHg6jjcJt9Ptbkhwc7-octVHziiLU1tiiB2wn1DCFG3adYsB5eXNqFGzq827Rpu_YLVDJR9xJlD11w1Lxn4OXZ_k7Bp9g6VL99u2umlrHTNZJH1IctgQPpvmUPSuIe9B8fjwvRy62YneYvrqplPqjn0PhGA0NYOUejRMAnWkEGTsYk2GgweBONRFHDJA1CfwnSaGdkfYUrm77wfiIqGv3W0DAjs-WjG3yqIzBzQnnluL409VKpCIdj_1mI4oV7h_HNDGcypP4buvWpBFuYNG9SUgby17TWaG-TFdUlxT_u4dBK6aHZDkU6DKuUemrx3XtrwnmV1p7tf_SAIjMnfhTtLR3q--g2BhyUQkcbrTFiqA9UGnZzRQxdLjFfLmrtygF1k_P3VaxI3G2yUCWY4VQDcgX9Ud-UNwzlgAsrJPwxTEGZN2iRz7f9B9_tnVCuiN2xoj-tabK0dCmGuZyWGgFDjhDUVbW32xKs0lBZuz4-u57OqkTxtnfdUYLn3zPsZ5MN_luAIbCquXpQ8zwvAYMHcAd3N5o4HO-05dxjwaL6mzqpBr8F24jEm1ykSMI4P1xtjj-HoR8TjtWTAfqVAGUicYzurQmZlSpq5h8fJGWuPOKa2u1e6Aqa0o-JC3HiIGfF9XJcxnwFACpKotSkKrADm5r_Gw517JS_32L5KUjAk__NE-obHh0JsVUMDBHJ5RT1jk8vG9tfrZVmbTT5CeoqemR3nvQQ=w1600-h1200-no?authuser=0"
@@ -27,7 +37,22 @@
     {
       "id": 1,
       "title": "Cụ bế Mỡ (chụp 1/8/2019)",
-      "link": "https://lh3.googleusercontent.com/pw/AMWts8BkVO2EbqDHCd74Kk4UQXR57lHFAWRLQ7v1mO_kpZo-wRytIVOnA7omkQkkPCiVtWR84tSxrKEo2i0xog7UVAHnCfUt6Rphsz2mtnnD8OxdeUCisCezmHQ-JqyEyRk8D3WDcXpTaqMAYtVla8VGazTflQ=w1192-h1590-no"
+      "link": "https://lh3.googleusercontent.com/pw/AMWts8AL3QQ2A_avJwOy_IFnTWAJFp6XkIUMmvD2RvvTPMT9ySnwSDDTaQXy_sr6RjAkppq46dCcddp3yHQ3LmGS3Q8XDnyhjSc9ApPx5yHVhyBRQ6QKfAk5qaL9fdRA0lTB-k-ltGR9MJ-S-HNsvN7UzwWKXw=w1192-h1590-no"
+    },
+    {
+      "id": 2,
+      "title": "Hai bà khoe nhau áo đẹp",
+      "link": "https://lh3.googleusercontent.com/pw/AMWts8DwKHCrY1zlmh27e6wa0wZg4sUZz3tj0kQec7foeHCTBIa6jGgwrByhMOxPCzKktTwnIiccBw0w2bjOcW7e2-Lir-1YMBXXdh-mi8UYHrYSOUstszqX3U2Elf4OdjBDCYMCa5b2ELr0N_WkaVFg5S3z-w=w2120-h1590-no"
+    },
+    {
+      "id": 3,
+      "title": "Hai chị em",
+      "link": "https://lh3.googleusercontent.com/pw/AMWts8DRb13g8sEFaoJMnHEaZfR-th723vUMsu0jB7Uq6kSWROz2kFR-jt5j50TDvVfnijc9n-wpncqBuaMTbDnYpqcMq92oRCv1EUPCj2B1Ja2gwd6IqnZ7kwqS4VXNdnzgn8GfBHR3vVmuelZjgcEzYJf9Ng=w2120-h1590-no"
+    },
+    {
+      "id": 4,
+      "title": "Ba chị em",
+      "link": "https://lh3.googleusercontent.com/pw/AMWts8DO0woXG_eQyNVkkNCWImENnFxjozeg9SiGAtY1sPxq4_w0CkHFDcP0NMzUj6IyszDqFlYzZdBDtLQd-15PTOEL0TT8t5LXozh9gTlSBgS77FQPwoxCUE2nG5AYSRyQQx1haGpw7QQcC_3wXY-HhFMUww=w2120-h1590-no"
     }
   ],
   "thu": [
@@ -84,7 +109,7 @@
     {
       "id": 10,
       "title": "Ảnh chụp tại chùa Hương 2017",
-      "link": "https://lh3.googleusercontent.com/pw/AMWts8Cnj2LqUs_5JaQkfIF29o9tkuNsm2KqhUa1gzT47gp21gJv0xnN7KCqFw3anc-aT_wbUjtARxH1NaYBcZQ8ycboLORCfGPwFgn35giTpwRD6Jr2iEFW9kxzzTir5PdIQxEh1Kj7TXLl6gnBX4OKdpLCGw=w1194-h1590-no"
+      "link": "https://lh3.googleusercontent.com/pw/AMWts8DJCuPwxSGMkwT8k57mdnJEfcRELlay1LzwEa0rzB5L62OXcYZ_WKZBYR065RU6DfBEDGjViQpqIYn-GLHJpbGVI6KDxMHhPtM3tHXmj6SWR_N5OS_pu9oHzmgIE4hDMj0JLlpFBiYaR9n5TtrSNQWPng=w1194-h1590-no"
     }
   ],
   "hang": [],
