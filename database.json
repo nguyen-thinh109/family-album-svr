@@ -1,10 +1,40 @@
 {
   "protectedResources": {
-    "collective": ["GET", "POST", "PUT", "PATCH", "DELETE"],
-    "banoi": ["GET","POST", "PUT", "PATCH", "DELETE"],
-    "thu": ["GET","POST", "PUT", "PATCH", "DELETE"],
-    "hang": ["GET","POST", "PUT", "PATCH", "DELETE"],
-    "phone": ["GET","POST", "PUT", "PATCH", "DELETE"]
+    "collective": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+    ],
+    "banoi": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+    ],
+    "thu": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+    ],
+    "hang": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+    ],
+    "phone": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+    ]
   },
   "collective": [
     {
@@ -13,22 +43,37 @@
       "link": "https://i.ibb.co/SNNSWCg/599917725-823319.jpg"
     },
     {
-      "id": 3,
+      "id": 1,
       "title": "Thịnh và Hiếu",
       "link": "https://lh3.googleusercontent.com/pw/AMWts8AKRi5napK1zvyCv1MZijkkYNNU5Cl0H3xu8Iz-HaEHsHkApAzioWC3uqrU4fDlgD8wpSjGHS7W2zv9tjMK3-AmN0hYYgzPZ-bNaGXHsCAQ0dmbJjcaV7Y-bPcCxxOwehFuapJSeaWcUVgWuSJ4AxkxqQ=w2386-h1590-no?authuser=0"
     },
     {
-      "id": 1,
+      "id": 2,
+      "title": "hai chị em Mắm & Yến",
+      "link": "https://i.ibb.co/JzZ2kqJ/m2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Thanh niên Mắm đẹp trai!",
+      "link": "https://i.ibb.co/x2VwLC8/m3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Thanh niên Mắm đẹp trai!",
+      "link": "https://i.ibb.co/92kNY7c/mam.jpg"
+    },
+    {
+      "id": 5,
       "title": "Ảnh chụp 15/02/2013",
       "link": "https://lh3.googleusercontent.com/tSQB9dCTmzbaNW-jSzytn1oEOl0NdTQNLZD_Pd_CZ16oxRYTxeYeC0biYRaGL3ZgxON1inSyfHZu4h58lZ6XMwrswa3hPfdGjqu8Ah0qnDfT8RhUf1d5cj5_47QKsyHLtuyDnbHE0RAGsHSTes-MC8fGhXH5TDU2lyMhenS1A3IcVWENidvFHvGdHUynbM2OpfZ-XH6zRRrWHIwzlQjdwHg6jjcJt9Ptbkhwc7-octVHziiLU1tiiB2wn1DCFG3adYsB5eXNqFGzq827Rpu_YLVDJR9xJlD11w1Lxn4OXZ_k7Bp9g6VL99u2umlrHTNZJH1IctgQPpvmUPSuIe9B8fjwvRy62YneYvrqplPqjn0PhGA0NYOUejRMAnWkEGTsYk2GgweBONRFHDJA1CfwnSaGdkfYUrm77wfiIqGv3W0DAjs-WjG3yqIzBzQnnluL409VKpCIdj_1mI4oV7h_HNDGcypP4buvWpBFuYNG9SUgby17TWaG-TFdUlxT_u4dBK6aHZDkU6DKuUemrx3XtrwnmV1p7tf_SAIjMnfhTtLR3q--g2BhyUQkcbrTFiqA9UGnZzRQxdLjFfLmrtygF1k_P3VaxI3G2yUCWY4VQDcgX9Ud-UNwzlgAsrJPwxTEGZN2iRz7f9B9_tnVCuiN2xoj-tabK0dCmGuZyWGgFDjhDUVbW32xKs0lBZuz4-u57OqkTxtnfdUYLn3zPsZ5MN_luAIbCquXpQ8zwvAYMHcAd3N5o4HO-05dxjwaL6mzqpBr8F24jEm1ykSMI4P1xtjj-HoR8TjtWTAfqVAGUicYzurQmZlSpq5h8fJGWuPOKa2u1e6Aqa0o-JC3HiIGfF9XJcxnwFACpKotSkKrADm5r_Gw517JS_32L5KUjAk__NE-obHh0JsVUMDBHJ5RT1jk8vG9tfrZVmbTT5CeoqemR3nvQQ=w1600-h1200-no?authuser=0"
     },
     {
-      "id": 2,
+      "id": 6,
       "title": "Ảnh chụp 15/02/2013",
       "link": "https://lh3.googleusercontent.com/pw/AMWts8D3Fb_IehaKtXSH1YWO4iCT9KmSnM__hJK3v2CLXSyQDTHv9ib0fY5CU0pxIzZE-H00ARFtSQYemZuPon8I-TAQzHoiqhvvF-F0cUhpMYweKzyb_lh9hHSl6voxri5sfVCoE7OpRGK7t_3vglTC0grz3A=w1600-h1200-no"
     },
     {
-      "id": 4,
+      "id": 7,
       "title": "No comment!",
       "link": "https://lh3.googleusercontent.com/pw/AMWts8DbMx13l08obcctXoHMYfhYc3Z3h3XA6xjFv-__NEIIoccrlJSzDPWQmXKSXhboqm44Cuco_pPMjgKPBc0F4ekgggnqLoN7kN3TeGp6AtVGAO3RQbPCZmPCwkSMs1X3P0bNt5XBsKOfXZ6lHVXtZ-KGYw=w1236-h1646-no?authuser=0"
     }
@@ -153,6 +198,16 @@
     }
   ],
   "hang": [
+    {
+      "id": 1,
+      "title": "Hằng lúc mới biết bò",
+      "link": "https://i.ibb.co/tBQrLX5/hang1t.jpg"
+    },
+    {
+      "id": 2,
+      "title": "1 tuổi",
+      "link": "https://i.ibb.co/GnQ0wfq/60399-104268952971442-2107407-n.jpg"
+    },
     {
       "id": 5,
       "title": "Tết 2017",
