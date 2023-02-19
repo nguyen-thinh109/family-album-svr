@@ -14,12 +14,33 @@
     },
     {
       "id": 2,
-      "title": "Test 2",
-      "link": "https://i.ibb.co/B6TX323/z4087989207371-3b2f0e1aecfb00fdbae5224b6e198db1.jpg"
+      "title": "Ảnh chụp 15/02/2013",
+      "link": "https://lh3.googleusercontent.com/pw/AMWts8D3Fb_IehaKtXSH1YWO4iCT9KmSnM__hJK3v2CLXSyQDTHv9ib0fY5CU0pxIzZE-H00ARFtSQYemZuPon8I-TAQzHoiqhvvF-F0cUhpMYweKzyb_lh9hHSl6voxri5sfVCoE7OpRGK7t_3vglTC0grz3A=w1600-h1200-no"
     }
   ],
   "banoi": [],
-  "thu": [],
+  "thu": [
+    {
+      "id": 1,
+      "title": "Ảnh chụp 20/02/2013",
+      "link": "https://lh3.googleusercontent.com/pw/AMWts8DWcCqjJ1LeY_crdS0rY7zSXCvO9N_rYQGKEW3CGXYuLgXHMiTtkWw5v3GPGIxyEWebkpKhvD9eT7xw6iy5dOiwBOu88dael4ht7ynumVnCUvG5wZgwxUO92DYkdOl6R10GmEkyUpCAZSuyJ0ecU5E3eg=w894-h1590-no"
+    },
+    {
+      "id": 2,
+      "title": "Ảnh chụp 20/02/2013",
+      "link": "https://photos.google.com/share/AF1QipMcFQ-MjxoRARKXoFPAiDbUKIc3RzIdBReqeMdl91KssvUQzlOnkcWjKhWAZetmnw/photo/AF1QipMZqGBMRwkb5-OnxeUzWlS1DbBS2X-hS5R_VRwg?key=OWFLOWhlbW1zSWVCWTFoRVFyTzJxdUpjZnMwWWpn"
+    },
+    {
+      "id": 3,
+      "title": "Ảnh chụp 20/02/2013",
+      "link": "https://lh3.googleusercontent.com/pw/AMWts8C2dNn7_hVmse4_1zRUoCr2wgGxEZlIEFSN9zOP1gwUwuWii7w_dQs1Tx6HGIlfn3dIOcA9t_adute5NULxkjAIJS67irxEeYFlobZkMl4Sij66mzcWmTqrld2ZtZiW0YgIiq5mBfKMorhSld40CNYTjQ=w894-h1590-no"
+    },
+    {
+      "id": 4,
+      "title": "Ảnh chụp 20/02/2013",
+      "link": "https://lh3.googleusercontent.com/pw/AMWts8DsKf-WLshuNN23tT3IUX6PqAXg6zWQ_l4LaP-QvK0Iw1E3IdFz-22WC_zWBkt-SOVzugZAQoVQAIiJ9zMK15xc6sdn7hlU2WrbHR5s35ifIJ9r7nIptkHl82GuEr3oqx0900vs6ivsm9ZliDQnmU1cMA=w894-h1590-no"
+    }
+  ],
   "hang": [],
   "phone": [
     {
